@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @imschrodinger
-- 👀 I’m interested in Web Autonation
+- 👀 I’m interested in Web Automation
 - 🌱 I’m currently learning Web Scraping
 - 💞️ I’m looking to collaborate on //
 - 📫 Reach me = Tikendraksahu1029@gmail.com
